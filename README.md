@@ -1,1 +1,1 @@
-Example of Jobs parametrized with Jenkins 3
+Example of Jobs parametrized with Jenkins 4
